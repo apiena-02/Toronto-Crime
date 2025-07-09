@@ -1,4 +1,4 @@
-# 📊 Toronto-Crime-Analysis
+# 📊 Toronto Crime Analysis
 
 This project explores reported crime in Toronto between 2014 and 2024 using SQL for data cleaning and Power BI for visual analysis.
 

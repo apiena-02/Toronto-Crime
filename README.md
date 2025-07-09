@@ -3,7 +3,7 @@
 This project explores reported crime in Toronto between 2014 and 2024 using SQL for data cleaning and Power BI for visual analysis.
 
 ### Objective
-To analyze crime data from 2014 to 2024 in Toronto in order to identify high- and low-crime neighbourhoods, trends over time, and the most common types of offences.
+To analyze crime data from 2014 to 2024 in Toronto in order to identify high-crime neighbourhoods, trends over time, and the most common types of offences.
 
 ### Data Source
 Dataset: [Toronto Crime Data (Kaggle)](https://www.kaggle.com/datasets/mohammadbadi/crimes-in-toronto)

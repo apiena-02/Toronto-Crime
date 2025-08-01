@@ -9,7 +9,7 @@ To analyze crime data from 2014 to 2024 in Toronto in order to identify high-cri
 Dataset: [Toronto Crime Data (Kaggle)](https://www.kaggle.com/datasets/mohammadbadi/crimes-in-toronto)
 
 ### Dashboard (Power BI)
-![Dashboard Demo](./assets/dashboard/demo.gif)
+![Dashboard Demo](./dashboard/dashboard_preview.png)
 
 ### Key Findings
 - **West Humber–Clairville** is the neighbourhood with the highest number of reported crimes

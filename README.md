@@ -3,7 +3,7 @@
 This project explores reported crime in Toronto between 2014 and 2024 using SQL for data cleaning and Power BI for visual analysis.
 
 ### Objective
-To analyze crime data from 2014 to 2024 in Toronto in order to identify high-crime neighbourhoods, trends over time, and the most common types of offences.
+The objective of this project is to analyze crime data in Toronto from 2014 to 2024 in order to identify high-crime neighbourhoods, observe trends over time, determine the most common types of offences, understand temporal patterns such as peak days, months, and hours, and examine the premises where crimes most frequently occur.
 
 ### Data Source
 Dataset: [Toronto Crime Data (Kaggle)](https://www.kaggle.com/datasets/mohammadbadi/crimes-in-toronto)
@@ -16,3 +16,7 @@ Dataset: [Toronto Crime Data (Kaggle)](https://www.kaggle.com/datasets/mohammadb
 - **2023** was the most active year for reported crimes across Toronto
 - **Assault** is the most commonly reported offence
 - On average, there are **~38,200 crimes reported per year**
+- **August** is the month with the highest activity
+- Reported crimes are most frequent on **Mondays**
+- The overall peak hour is **15:00 (3 PM)**
+- **Apartments** are the most common premises for reported crimes
